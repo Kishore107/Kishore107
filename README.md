@@ -43,19 +43,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kishore107/Kishore107/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kishore107/count.svg?"  />
-</div>
-
-###
 
 
 <h2 align="center">Leetcode Info<h2>  
